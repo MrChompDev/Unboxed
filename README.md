@@ -2,7 +2,7 @@
 
 A mind-bending platformer where you escape a digital prison by discovering the truth of your existence.
 
-## 🎮 About
+## About
 
 **UNBOXED** is a 2D platformer game created for a game jam. You play as Subject 734, a consciousness trapped in a digital simulation who must discover their true nature and escape the system.
 
